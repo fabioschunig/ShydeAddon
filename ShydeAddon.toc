@@ -1,0 +1,4 @@
+## Interface: 110002
+## Title: ShydeAddon
+
+ShydeAddon.lua
